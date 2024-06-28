@@ -2524,7 +2524,7 @@ node_modules/@vue/cli-service/generator/vuex.js
 node_modules/@vue/cli-service/generator/template/_gitignore
 node_modules/@vue/cli-service/generator/template/jsconfig.json
 node_modules/@vue/cli-service/generator/template/public/favicon.ico
-node_modules/@vue/cli-service/generator/template/public/index.html
+node_modules/@vue/cli-service/generator/template/public/index2.html
 node_modules/@vue/cli-service/generator/template/src/App.vue
 node_modules/@vue/cli-service/generator/template/src/main.js
 node_modules/@vue/cli-service/generator/template/src/assets/logo.png
